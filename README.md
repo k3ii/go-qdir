@@ -12,13 +12,7 @@ Qdir (Quick Directory) is a versatile command-line tool for creating directories
 
 ## Installation
 
-To install Qdir, make sure you have Go installed on your system, then run:
-
-```bash
-go get -u github.com/k3ii/qdir
-```
-
-Replace `yourusername` with your actual GitHub username or the appropriate path to the repository.
+To install Qdir, check the [latest release](https://github.com/k3ii/qdir/releases)
 
 ## Usage
 
